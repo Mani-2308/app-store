@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mani-2308/app-store/static/css/main.4f20fe29.chunk.css",
+    "main.js": "/Mani-2308/app-store/static/js/main.f85397ac.chunk.js",
+    "main.js.map": "/Mani-2308/app-store/static/js/main.f85397ac.chunk.js.map",
+    "runtime-main.js": "/Mani-2308/app-store/static/js/runtime-main.458b43b2.js",
+    "runtime-main.js.map": "/Mani-2308/app-store/static/js/runtime-main.458b43b2.js.map",
+    "static/js/2.a208f12a.chunk.js": "/Mani-2308/app-store/static/js/2.a208f12a.chunk.js",
+    "static/js/2.a208f12a.chunk.js.map": "/Mani-2308/app-store/static/js/2.a208f12a.chunk.js.map",
+    "index.html": "/Mani-2308/app-store/index.html",
+    "static/css/main.4f20fe29.chunk.css.map": "/Mani-2308/app-store/static/css/main.4f20fe29.chunk.css.map",
+    "static/js/2.a208f12a.chunk.js.LICENSE.txt": "/Mani-2308/app-store/static/js/2.a208f12a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.458b43b2.js",
+    "static/js/2.a208f12a.chunk.js",
+    "static/css/main.4f20fe29.chunk.css",
+    "static/js/main.f85397ac.chunk.js"
+  ]
+}
