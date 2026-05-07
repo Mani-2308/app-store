@@ -1,0 +1,85 @@
+h1 {
+  margin: 0px;
+}
+
+.page-bg-container {
+  background: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  height: 100%;
+}
+
+.app-store-heading {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  padding: 21px;
+}
+
+.search-container {
+  display: flex;
+  background-color: transparent;
+  width: 230px;
+  height: 40px;
+  border-radius: 4px;
+  padding: 6px;
+  border-width: 0px;
+  border: 1px solid;
+}
+
+.search-box {
+  background-color: transparent;
+  border-width: 0px;
+  padding: 8px;
+  font-family: 'Roboto';
+  width: 210px;
+  outline: none;
+}
+
+.search-image {
+  height: 30px;
+  width: 30px;
+}
+
+.tabs-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+}
+
+.apps-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 90%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .page-bg-container {
+    height: 100vh;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1999px) {
+  .page-bg-container {
+    height: 100vh;
+  }
+
+  .apps-container {
+    width: 70%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .page-bg-container {
+    height: 100vh;
+  }
+
+  .apps-container {
+    width: 70%;
+  }
+}
